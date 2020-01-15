@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://slawek420:slawek420@groomerapp-lbsuq.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}
